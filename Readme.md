@@ -1,0 +1,3 @@
+A program also created as a project for the freecodecamp.com Front-End-Developer course. Using Codepen.io and written in HTML CSS and Javascript, This project along with the calculator was my favorite, after researching famous quotes from The Hitchhiker's Guide to The Galaxy Movie, also one of my favorites, i still get a good laugh from these quotes. I hope you will enjoy trying out this game. It can be  found at <a href="http://www.ggetchell.com/the-hitchhikers-guide-to-the-galaxy-quotes/index.html">Random Quote Generator</a>
+
+ 
